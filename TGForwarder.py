@@ -329,7 +329,7 @@ if __name__ == '__main__':
     limit = 20
     # 监控消息中评论数，有些视频、资源链接被放到评论中
     replies_limit = 1
-    kw = ['链接', '片名', '名称', '剧名','pan.quark.cn','115.com','alipan.com','aliyundrive.com','夸克云盘','阿里云盘','磁力链接']
+    kw = ['链接', '片名', '名称', '剧名','pan.quark.cn','115.com','alipan.com','aliyundrive.com','夸克云盘','阿里云盘','磁力链接','UC']
     ban = ['预告', '预感', 'https://t.me/', '盈利', '即可观看','书籍','电子书','图书','软件','安卓','Android','课程','作品','教程','全书','名著','epub','pdf','抽奖','完整版']
     # 尝试加入公共群组频道，无法过验证
     try_join = False
